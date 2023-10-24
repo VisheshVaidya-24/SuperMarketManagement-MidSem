@@ -1,0 +1,6 @@
+S.no	Item		Price(per kg in rs)
+1	Beef		190
+2	Pork		290
+3	Poultry		390
+4	Lamb		390
+5	Seafood		2700

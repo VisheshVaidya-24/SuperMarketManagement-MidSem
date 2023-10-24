@@ -1,0 +1,6 @@
+S.no	Item	Price(per kg in rs)
+1	Flour	40
+2	Sugar	120
+3	Salt	10
+4	Cooking Oil	20
+5	Pepper	12

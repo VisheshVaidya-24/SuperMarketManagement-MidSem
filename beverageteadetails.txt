@@ -1,0 +1,6 @@
+S.no	Item			Price(per item in rs)
+1	Twinings of London	100
+2	Lipton			250
+3	Tazo			320
+4	Harney & Sons		350
+5	Celestial Seasonings	2300

@@ -1,0 +1,6 @@
+S.no	Item	Price(per kg in rs)
+1	Wheat	100
+2	Rice	250
+3	Corn	20
+4	Oats	150
+5	Barley	200
