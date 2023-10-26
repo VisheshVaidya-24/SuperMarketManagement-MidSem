@@ -13,8 +13,9 @@ public  class Billing  extends TempMain{
         do
         {
             System.out.println("Enter the index of your favourable item and Quantity respectively !!!");
-            indexOfItem[i++] = sc.nextInt();
-            quantityOfItem[j++] = sc.nextInt();
+            int index = sc.nextInt();
+            indexOfItem[index] = 1;
+            quantityOfItem[index] = sc.nextInt();
             System.out.println("Would you like to choose any item from the list (Y=1/N=0)?");
             flag=sc.nextByte();
         }while(flag==1);
@@ -22,9 +23,9 @@ public  class Billing  extends TempMain{
     } 
     public void calPrice() {
      
-        for(int k=0;k<j;k++)
+        for(int k=1;k<=75;k++)  // index starts from 1 to 75
         {
-            sum+=(10*quantityOfItem[k]);
+            sum+=(100*quantityOfItem[k]);
         }   
         System.out.println("Current price : "+sum);
     

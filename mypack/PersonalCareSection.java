@@ -38,10 +38,10 @@ public class PersonalCareSection extends UserSelection
     public void hygieneProductsDetails()
     {
            try{
-            char[] flight  = new char[1000];
+            char[] data  = new char[1000];
             FileReader input = new FileReader("personalcarehygiene.txt");
-            input.read(flight);
-            System.out.println(flight);
+            input.read(data);
+            System.out.println(data);
             input.close();
         }
         catch (IOException e) {
@@ -55,10 +55,10 @@ public class PersonalCareSection extends UserSelection
     public void bodycareDetails()
     {
          try{
-            char[] flight  = new char[1000];
+            char[] data  = new char[1000];
             FileReader input = new FileReader("personalcarebodycare.txt");
-            input.read(flight);
-            System.out.println(flight);
+            input.read(data);
+            System.out.println(data);
             input.close();
         }
         catch (IOException e) {
@@ -72,10 +72,10 @@ public class PersonalCareSection extends UserSelection
     public void firstAidDetails()
     {
          try{
-            char[] flight  = new char[1000];
+            char[] data  = new char[1000];
             FileReader input = new FileReader("personalcarefirstaiddetails.txt");
-            input.read(flight);
-            System.out.println(flight);
+            input.read(data);
+            System.out.println(data);
             input.close();
         }
         catch (IOException e) {
@@ -86,7 +86,4 @@ public class PersonalCareSection extends UserSelection
          calPrice();
          contSection();
     }// end of first aid details
-
-    
-
 }

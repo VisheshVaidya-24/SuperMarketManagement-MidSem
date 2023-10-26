@@ -40,10 +40,10 @@ public class BeverageSection extends UserSelection
         {
             
             try{
-                char[] flight  = new char[1000];
+                char[] data  = new char[1000];
                 FileReader input = new FileReader("beverageteadetails.txt");
-                input.read(flight);
-                System.out.println(flight);
+                input.read(data);
+                System.out.println(data);
                 input.close();
             }
             catch (IOException e) {
@@ -57,10 +57,10 @@ public class BeverageSection extends UserSelection
         public void coffeeDetails()
         {
             try{
-                char[] flight  = new char[1000];
+                char[] data  = new char[1000];
                 FileReader input = new FileReader("beveragecoffeedetails.txt");
-                input.read(flight);
-                System.out.println(flight);
+                input.read(data);
+                System.out.println(data);
                 input.close();
             }
             catch (IOException e) {
@@ -75,10 +75,10 @@ public class BeverageSection extends UserSelection
         {
             
             try{
-                char[] flight  = new char[1000];
+                char[] data  = new char[1000];
                 FileReader input = new FileReader("beveragesoftdrinkdetails.txt");
-                input.read(flight);
-                System.out.println(flight);
+                input.read(data);
+                System.out.println(data);
                 input.close();
             }
             catch (IOException e) {

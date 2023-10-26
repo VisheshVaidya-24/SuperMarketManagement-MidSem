@@ -1,6 +1,6 @@
-S.no	Item							Price(per item in rs)
-1	Toilet Bowl Cleaners					400
-2	Dishwasher Detergents with Disinfecting Properties	350
-3	Steam Cleaners						220
-4	Antibacterial and Antimicrobial Cleaners		750
-5	Bleach							300
+S.no	Item							                    Price(per item in rs)
+41	    Toilet Bowl Cleaners					            100
+42	    Dishwasher Detergents with Disinfecting Properties	100
+43	    Steam Cleaners						                100
+44	    Antibacterial and Antimicrobial Cleaners		    100
+45	    Bleach							                    100

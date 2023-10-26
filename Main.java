@@ -1,7 +1,7 @@
 import java.util.*;
 import mypack.*;
 
- class Main
+class Main
 {
     
     public static void main(String[] args) 
@@ -47,6 +47,7 @@ import mypack.*;
                 objFreshProduceSection.FreshProduceList();
                 break;
             }
+
             case 5: // beverages
             {
                 BeverageSection objBeverageSection = new BeverageSection();

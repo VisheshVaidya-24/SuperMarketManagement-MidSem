@@ -15,7 +15,8 @@ public class GrocerySection extends UserSelection
         // listing of grocery items
         messageForChoosingList(); 
 
-        displayingListOfItems(groceryItemList,3);  
+        displayingListOfItems(groceryItemList,3); 
+
         byte groceryCategorySelectedNumber = messageForCustomerSelection();
         // calling method on the basis of choosen index
         switch(groceryCategorySelectedNumber)
@@ -42,10 +43,10 @@ public class GrocerySection extends UserSelection
     public void cerealsDetails() {
         GrocerySection obj = new GrocerySection(); 
           try{
-            char[] flight  = new char[1000];
+            char[] data  = new char[1000];
             FileReader input = new FileReader("GroceryCerealDetails.txt");
-            input.read(flight);
-            System.out.println(flight);
+            input.read(data);
+            System.out.println(data);
             input.close();
         }
         catch (IOException e) {
@@ -58,10 +59,10 @@ public class GrocerySection extends UserSelection
 
     public void snacksDetails() {
           try{
-            char[] flight  = new char[1000];
+            char[] data  = new char[1000];
             FileReader input = new FileReader("GrocerySnackDetails.txt");
-            input.read(flight);
-            System.out.println(flight);
+            input.read(data);
+            System.out.println(data);
             input.close();
         }
         catch (IOException e) {
@@ -75,10 +76,10 @@ public class GrocerySection extends UserSelection
 
     public void cookingIngredientsDetails() {
             try{
-            char[] flight  = new char[1000];
+            char[] data  = new char[1000];
             FileReader input = new FileReader("Grocerycookingdetails.txt");
-            input.read(flight);
-            System.out.println(flight);
+            input.read(data);
+            System.out.println(data);
             input.close();
         }
         catch (IOException e) {

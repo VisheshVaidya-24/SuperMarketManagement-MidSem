@@ -1,6 +1,6 @@
-S.no	Item	Price(per item in rs)
-1	Chips	10
-2	Candy	25
-3	Popcorn	20
-4	Bakery	150
-5	Icecream 200
+S.no	Item		    Price(per item in rs)
+11	    Chips		    100
+12	    Candy		    100
+13	    Popcorn		    100
+14	    Bakery		    100
+15	    Icecream 	    100

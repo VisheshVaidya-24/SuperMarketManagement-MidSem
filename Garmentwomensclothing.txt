@@ -1,6 +1,6 @@
-S.no	Item	Price(per item in rs)
-1	Skirts		1200
-2	Tops		2550
-3	Shorts		2000
-4	Jeans		1500
-5	Activewear	2000
+S.no	Item		    Price(per item in rs)
+21	    Skirts		    100
+22	    Tops		    100
+23	    Shorts		    100
+24	    Jeans		    100
+25	    Activewear	    100

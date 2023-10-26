@@ -36,10 +36,10 @@ public class FreshProduceSection extends UserSelection
     public void fruitsDetails()
     {
           try{
-            char[] flight  = new char[1000];
+            char[] data  = new char[1000];
             FileReader input = new FileReader("freshproducefruitdetails.txt");
-            input.read(flight);
-            System.out.println(flight);
+            input.read(data);
+            System.out.println(data);
             input.close();
         }
         catch (IOException e) {
@@ -54,10 +54,10 @@ public class FreshProduceSection extends UserSelection
     public void vegetablesDetails()
     {
         try{
-            char[] flight  = new char[1000];
+            char[] data  = new char[1000];
             FileReader input = new FileReader("freshproducevegetabledetails.txt");
-            input.read(flight);
-            System.out.println(flight);
+            input.read(data);
+            System.out.println(data);
             input.close();
         }
         catch (IOException e) {
@@ -71,10 +71,10 @@ public class FreshProduceSection extends UserSelection
     public void meatDetails()
     {
         try{
-            char[] flight  = new char[1000];
+            char[] data  = new char[1000];
             FileReader input = new FileReader("freshproducemeatdetails.txt");
-            input.read(flight);
-            System.out.println(flight);
+            input.read(data);
+            System.out.println(data);
             input.close();
         }
         catch (IOException e) {

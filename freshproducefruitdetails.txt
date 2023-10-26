@@ -1,6 +1,6 @@
-S.no	Item		Price(per kg in rs)
-1	Berries		150
-2	Citrus Fruits	220
-3	Tropical Fruits	210
-4	Stone Fruits	450
-5	Melons		100
+S.no	Item			    Price(per kg in rs)
+46	    Berries			    100
+47	    Citrus Fruits		100
+48	    Tropical Fruits		100
+49	    Stone Fruits		100
+50	    Melons			    100

@@ -1,6 +1,6 @@
-S.no	Item	Price(per item in rs)
-1	Shirt		1050
-2	T-Shirt		2550
-3	Jacket		250
-4	Formal Clothes	1550
-5	Sweater		2005
+S.no	Item		    Price(per item in rs)
+16	    Shirt		    100
+17	    T-Shirt		    100
+18	    Jacket		    100
+19	    Formal Clothes	100
+20	    Sweater		    100

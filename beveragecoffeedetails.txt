@@ -1,6 +1,6 @@
-S.no	Item					Price(per item in rs)
-1	Onyx Coffee Lab				100
-2	Blue Bottle Coffee			250
-3	Dunkin' (formerly Dunkin' Donuts)	320
-4	Costa Coffee				350
-5	Starbucks				2300
+S.no	Item					        Price(per item in rs)
+71	    Onyx Coffee Lab				        100
+72	    Blue Bottle Coffee			        100
+73	    Dunkin' (formerly Dunkin' Donuts)	100
+74	    Costa Coffee				        100
+75	    Starbucks				            100

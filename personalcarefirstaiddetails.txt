@@ -1,6 +1,6 @@
-S.no	Item				Price(per kg in rs)
-1	Wound Care			100
-2	Burn First Aid			250
-3	Fracture and Sprain First Aid	20
-4	Bleeding Control		150
-5	Medicines			200
+S.no	Item				            Price(per kg in rs)
+36	    Wound Care			            100
+37	    Burn First Aid			        100
+38	    Fracture and Sprain First Aid	100
+39	    Bleeding Control		        100
+40	    Medicines			            100

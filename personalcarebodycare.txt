@@ -1,6 +1,6 @@
-S.no	Item		Price(per item in rs)
-1	Fragrances	1100
-2	Body Powders	1250
-3	Moisturizers	1200
-4	Exfoliants	1150
-5	Cleansers	2100
+S.no	Item		    Price(per item in rs)
+31	    Fragrances	    1100
+32	    Body Powders	1250
+33	    Moisturizers	1200
+34	    Exfoliants	    1150
+35	    Cleansers	    2100

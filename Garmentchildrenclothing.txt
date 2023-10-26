@@ -1,6 +1,6 @@
-S.no	Item	Price(per item in rs)
-1	Dresses		4000
-2	Cardigans	2500
-3	Jumpsuits	2000
-4	Gowns		1500
-5	Hoodies		2000
+S.no	Item		Price(per item in rs)
+26	    Dresses		100
+27	    Cardigans	100
+28	    Jumpsuits	100
+29	    Gowns		100
+30	    Hoodies		100

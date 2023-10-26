@@ -1,6 +1,6 @@
 S.no	Item		Price(per item in rs)
-1	Cola		100
-2	Lemon-Lime	250
-3	Orange		320
-4	Cream Soda	350
-5	Energy Drink	2300
+66	    Cola		    100
+67	    Lemon-Lime	    100
+68	    Orange		    100
+69	    Cream Soda	    100
+70	    Energy Drink	100

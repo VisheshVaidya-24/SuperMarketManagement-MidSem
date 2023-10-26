@@ -38,10 +38,10 @@ public class GarmentSection extends UserSelection
     public void mensClothingDetails()
     {
          try{
-            char[] flight  = new char[1000];
+            char[] data  = new char[1000];
             FileReader input = new FileReader("Garmentmensclothing.txt");
-            input.read(flight);
-            System.out.println(flight);
+            input.read(data);
+            System.out.println(data);
             input.close();
         }
         catch (IOException e) {
@@ -56,10 +56,10 @@ public class GarmentSection extends UserSelection
     {
         
           try{
-            char[] flight  = new char[1000];
+            char[] data  = new char[1000];
             FileReader input = new FileReader("Garmentwomensclothing.txt");
-            input.read(flight);
-            System.out.println(flight);
+            input.read(data);
+            System.out.println(data);
             input.close();
         }
         catch (IOException e) {
@@ -73,10 +73,10 @@ public class GarmentSection extends UserSelection
     public void childrensClothingDetails()
     {
           try{
-            char[] flight  = new char[1000];
+            char[] data  = new char[1000];
             FileReader input = new FileReader("Garmentchildrenclothing.txt");
-            input.read(flight);
-            System.out.println(flight);
+            input.read(data);
+            System.out.println(data);
             input.close();
         }
         catch (IOException e) {
